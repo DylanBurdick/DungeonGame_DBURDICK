@@ -46,7 +46,7 @@ public class DungeonGame_DBURDICK : MonoBehaviour
         int[] enemyAC = {10, 8, 13};
         int[] enemyDefense = {2, 3, 1};
 
-        // int goblinHealth = 20;
+        // int goblinHealth = 20; making a change to be flagged by github as a change
         // int goblinAttack = 8;
         // int goblinDefense = 2;
         // int goblinAC = 10;
